@@ -1,12 +1,3 @@
-
-
-
-
-// {{REMOVE BEFORE ADDING!!!!}} X 3
-
-
-
-
 // LESSON 30 - ARRAYS
 // ALL HOMEWORK WRAPPER
 function wrapperInput() {
@@ -53,7 +44,7 @@ function wrapperInput() {
 }
 wrapperInput()
 
-// INDIVIDUAL HOMEWORK
+
 // 1. Create a “groceries list” array. 
 // Each element of the array is an object that contains the name of a product, an amount needed and whether it is bought or not. 
 // Write a few functions for working with this array: 
